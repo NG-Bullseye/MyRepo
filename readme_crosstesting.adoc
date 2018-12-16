@@ -1,0 +1,38 @@
+= Crosstesting
+
+Hier ist unsere Anwendung. Viel Spaß beim Crosstesting... 
+
+== Ausführung der Anwendung
+
+java -jar swt18w31-1.0.0.BUILD-SNAPSHOT.jar
+
+http://localhost:8080
+
+== Zugangsdaten
+Dies ist nur eine Auswahl, aber bei allen Accounts außer dem Admin lautet das Passwort "123"
+
+=== Adminaccount: 
+
+Username: admin
+
+Password: adminpw
+
+=== Organisatoraccount: 
+
+Username: info@ksg.de
+
+Password: 123
+
+=== Useraccount: 
+
+Username: peter@foo.de
+
+Password: 123
+
+== Anmerkungen:
+- bitte die Anwendung auf deutsch nutzen, es sind noch nicht alle englischen Übersetzungsstrings erstellt.
+
+== Fragen?
+
+Wendet euch einfach an uns. Das sind Alexander, Julius, Moritz, Markus, Adrian und Karl. 
+Bis morgen :D und viel Spaß beim Testen ;-)!
